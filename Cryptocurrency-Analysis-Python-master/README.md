@@ -1,4 +1,4 @@
-# Analyzing Cryptocurrency Markets Using Python
+#  Cryptocurrency analysis   Using Python
 ## A Data-Driven Approach To Cryptocurrency Speculation
 
 *How do Bitcoin markets behave? What are the causes of the sudden spikes and dips in cryptocurrency values?  Are the markets for different altcoins inseparably linked or largely independent?  **How can we predict what will happen next?***
@@ -17,7 +17,7 @@ This Python notebook is 100% open-source, feel free to utilize the code however 
 ```
 The MIT License (MIT)
 
-Copyright (c) 2017 Patrick Triest
+
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
